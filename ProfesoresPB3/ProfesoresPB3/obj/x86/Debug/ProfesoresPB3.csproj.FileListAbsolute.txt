@@ -1,0 +1,8 @@
+C:\Users\Kleiner\documents\visual studio 2010\Projects\ProfesoresPB3\ProfesoresPB3\bin\Debug\ProfesoresPB3.exe
+C:\Users\Kleiner\documents\visual studio 2010\Projects\ProfesoresPB3\ProfesoresPB3\bin\Debug\ProfesoresPB3.pdb
+C:\Users\Kleiner\documents\visual studio 2010\Projects\ProfesoresPB3\ProfesoresPB3\obj\x86\Debug\ProfesoresPB3.Form1.resources
+C:\Users\Kleiner\documents\visual studio 2010\Projects\ProfesoresPB3\ProfesoresPB3\obj\x86\Debug\ProfesoresPB3.Properties.Resources.resources
+C:\Users\Kleiner\documents\visual studio 2010\Projects\ProfesoresPB3\ProfesoresPB3\obj\x86\Debug\ProfesoresPB3.csproj.GenerateResource.Cache
+C:\Users\Kleiner\documents\visual studio 2010\Projects\ProfesoresPB3\ProfesoresPB3\obj\x86\Debug\ProfesoresPB3.exe
+C:\Users\Kleiner\documents\visual studio 2010\Projects\ProfesoresPB3\ProfesoresPB3\obj\x86\Debug\ProfesoresPB3.pdb
+C:\Users\Kleiner\documents\visual studio 2010\Projects\ProfesoresPB3\ProfesoresPB3\obj\x86\Debug\ProfesoresPB3.Form2.resources
